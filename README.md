@@ -1,20 +1,20 @@
-<h1 align="left">Witaj na moim profilu! 👋</h1>
+<h1 align="left">Hi, I'm Max! 👋</h1>
 
 ###
 
-<p align="left">Cześć! Jestem Maks, początkującym junior frontend developerem z zapałem do ciągłego rozwoju. Motywuje mnie eksploracja nowych obszarów w świecie programowania. Poniżej znajdziesz informacje o mnie, moich umiejętnościach oraz planach rozwoju.</p>
+<p align="left">Hi! I'm Maks, an aspiring junior frontend developer with a passion for continuous growth. I'm motivated by exploring new areas in the world of programming. Below, you'll find information about me, my skills, and my development plans.</p>
 
 ###
 
-<h2 align="left">O mnie</h2>
+<h2 align="left">About Me</h2>
 
 ###
 
-<p align="left">Jestem pasjonatem tworzenia stron internetowych, a moja fascynacja światem kodowania trwa już od kilku lat. Obecnie skupiam się na rozwijaniu umiejętności jako Junior Frontend Developer.<br><br>Aktualnie poszukuję pracy na stanowisku Junior Frontend Developer, gdzie będę mógł rozwijać swoje umiejętności i zdobywać doświadczenie praktyczne. Uważam, że praca w zespole pomoże mi w osiągnięciu moich zawodowych celów.<br><br>Ciągły rozwój w świecie programowania sprawia mi ogromną przyjemność. Chętnie uczę się nowych technologii i trendów branżowych. Jako osoba z zamiłowaniem do kodowania, wierzę w potęgę technologii i jej wpływ na zmiany w dzisiejszym świecie.<br><br>Jestem gotów na nowe wyzwania i nieustannie poszukuję możliwości nauki i doskonalenia swoich umiejętności. Jeśli szukasz kogoś pełnego entuzjazmu, zapału do nauki i predyspozycji do pracy w zespole, to chętnie dołączę do projektu, który pozwoli mi rozwijać się jako programista.</p>
+<p align="left">I am passionate about creating websites and applications, and my fascination with the world of coding has lasted for several years. Currently, I am focused on developing my skills as a Junior Frontend Developer.<br><br>At the moment, I am looking for a position as a Junior Frontend Developer, where I can enhance my skills and gain practical experience. I believe that working in a dynamic team will help me achieve my professional goals.<br><br>Continuous growth in the programming world brings me great joy. I enjoy learning new technologies and staying up to date with industry trends. As someone with a love for coding, I believe in the power of technology and its impact on driving change in today's world.<br><br>I am ready to take on new challenges and am constantly seeking opportunities to learn and improve my skills. If you're looking for someone full of enthusiasm, eagerness to learn, and a strong ability to work in a team, I would gladly join a project that allows me to grow as a developer.</p>
 
 ###
 
-<h2 align="left">Umiejętności</h2>
+<h2 align="left">Technologies</h2>
 
 ###
 
@@ -30,56 +30,58 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gulp/gulp-plain.svg" height="40" alt="gulp logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" alt="nextjs logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="postgresql logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-original.svg" height="40" alt="wordpress logo"  />
 </div>
 
 ###
 
-<h2 align="left">Plan rozwoju</h2>
+<h2 align="left">Skill Development Plan</h2>
 
 ###
 
-<p align="left">Chcę poszerzyć moje umiejętności poprzez naukę:</p>
-
-###
-
-<h6 align="left">W trakcie:</h6>
+<h6 align="left">In progress:</h6>
 
 ###
 
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-original.svg" height="40" alt="wordpress logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
 </div>
 
 ###
 
-<h6 align="left">Do nauki:</h6>
+<h6 align="left">To learn:</h6>
 
 ###
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" height="40" alt="tailwindcss logo"  />
-  <img width="12" />
 </div>
 
 ###
 
-<h2 align="left">Obecnie pracuję nad:</h2>
+<h2 align="left">Currently working on:</h2>
 
 ###
 
-<ul>
-  <li>💻 https://matrix669.github.io/Effatha-website/</li>
-</ul>
+<p align="left">----------</p>
 
 ###
 
-<h2 align="left">Kontakt</h2>
+<h2 align="left">Contact</h2>
 
 ###
 
-<p align="left">📧 E-mail: maks.tk95@gmail.com</p>
+<p align="left">📧 E-mail: mtkaczykn@gmail.com</p>
 
 ###
