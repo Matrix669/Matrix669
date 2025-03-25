@@ -75,7 +75,7 @@
 
 ###
 
-<a href="drachma-website.vercel.app" target="_blank" align="left">Drachma</a>
+<a href="https://drachma-website.vercel.app" target="_blank" align="left">Drachma</a>
 
 ###
 
