@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">Hi! I'm Maks, an aspiring junior frontend developer with a passion for continuous growth. I'm motivated by exploring new areas in the world of programming. Below, you'll find information about me, my skills, and my development plans.</p>
+<p align="left">I’m a freelancer specializing in creating websites, online stores, and web applications. Below, you’ll find information about me, my skills, and the projects I’m working on</p>
 
 ###
 
@@ -10,7 +10,9 @@
 
 ###
 
-<p align="left">I am passionate about creating websites and applications, and my fascination with the world of coding has lasted for several years. Currently, I am focused on developing my skills as a Junior Frontend Developer.<br><br>At the moment, I am looking for a position as a Junior Frontend Developer, where I can enhance my skills and gain practical experience. I believe that working in a dynamic team will help me achieve my professional goals.<br><br>Continuous growth in the programming world brings me great joy. I enjoy learning new technologies and staying up to date with industry trends. As someone with a love for coding, I believe in the power of technology and its impact on driving change in today's world.<br><br>I am ready to take on new challenges and am constantly seeking opportunities to learn and improve my skills. If you're looking for someone full of enthusiasm, eagerness to learn, and a strong ability to work in a team, I would gladly join a project that allows me to grow as a developer.</p>
+<p align="left">I build modern websites, online stores, and web applications, always with an individual approach and a touch of originality. My projects are my calling card, so I prioritize the highest quality – combining performance, polished design, and features that turn code into a revenue-generating tool, not just a cost.
+  
+Coding is my passion – I love exploring new technologies, learning, and solving problems. Every project is an opportunity for me to grow and create something that truly makes a difference.</p>
 
 ###
 
