@@ -59,7 +59,7 @@ Coding is my passion – I love exploring new technologies, learning, and solvin
 ###
 
 <div align="left">
- 
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" height="40" alt="tailwindcss logo"  />
 </div>
 
 ###
@@ -69,7 +69,7 @@ Coding is my passion – I love exploring new technologies, learning, and solvin
 ###
 
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" height="40" alt="tailwindcss logo"  />
+  ---
 </div>
 
 ###
