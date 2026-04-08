@@ -29,7 +29,7 @@ Coding is my passion – I love exploring new technologies, learning, and solvin
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gulp/gulp-plain.svg" height="40" alt="gulp logo"  />
+ /*<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gulp/gulp-plain.svg" height="40" alt="gulp logo"  />*/
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
   <img width="12" />
@@ -44,8 +44,9 @@ Coding is my passion – I love exploring new technologies, learning, and solvin
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="postgresql logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-original.svg" height="40" alt="wordpress logo"  />
-   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
   <img src="https://assets.super.so/e7c0f16c-8bd3-4c76-8075-4c86f986e1b2/uploads/favicon/9c68ae10-0a8a-4e3f-9084-3625b19df9cb.png" height="40" alt="strapi logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" height="40" alt="tailwindcss logo"  />
 </div>
 
 ###
@@ -59,7 +60,7 @@ Coding is my passion – I love exploring new technologies, learning, and solvin
 ###
 
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" height="40" alt="tailwindcss logo"  />
+  ---
 </div>
 
 ###
@@ -69,7 +70,8 @@ Coding is my passion – I love exploring new technologies, learning, and solvin
 ###
 
 <div align="left">
-  ---
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/reactnative/reactnative-original-wordmark.svg" height="40" alt="react native logo"  />
+  <img src="https://payloadcms.com/apple-icon.png?ecf0fe126546bd55" height="40" alt="payload cms logo"  
 </div>
 
 ###
@@ -78,7 +80,8 @@ Coding is my passion – I love exploring new technologies, learning, and solvin
 
 ###
 
-<p align="left">Website + shop for Fundacja Drachma <a target="_blank" href="https://drachma-website.vercel.app/">Fundacja Drachma</a></p>
+- <p align="left">Website + shop for Fundacja Drachma <a target="_blank" href="https://drachma-website.vercel.app/">Fundacja Drachma</a></p>
+- <p>and my portfolio! 👀</p>
 
 ###
 
