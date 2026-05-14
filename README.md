@@ -85,7 +85,6 @@ Coding is my passion – I love exploring new technologies, learning, and solvin
 ###
 
 - <p align="left">Website + shop for Fundacja Drachma <a target="_blank" href="https://drachma-website.vercel.app/">Fundacja Drachma</a></p>
-- <p>and my portfolio! 👀</p>
 
 ###
 
