@@ -14,7 +14,7 @@
 
 <table>
 <tr>
-<td width="140" valign="top">
+<td width="140" valign="middle" align="center">
   <img src="./assets/avatar.png" width="120" alt="Max avatar">
 </td>
 <td valign="top">
@@ -55,8 +55,6 @@ I care about performance, polished UI and code that actually earns its keep — 
 <p>
   <img src="https://img.shields.io/badge/.NET-DFDFDF?style=for-the-badge&logo=dotnet&logoColor=232526" alt=".NET">
   <img src="https://img.shields.io/badge/C%23-DFDFDF?style=for-the-badge" alt="C#">
-  <img src="https://img.shields.io/badge/EF_Core-DFDFDF?style=for-the-badge" alt="EF Core">
-  <img src="https://img.shields.io/badge/Expo-DFDFDF?style=for-the-badge&logo=expo&logoColor=232526" alt="Expo">
   <img src="https://img.shields.io/badge/Swift-DFDFDF?style=for-the-badge&logo=swift&logoColor=232526" alt="Swift">
 </p>
 
@@ -64,11 +62,7 @@ I care about performance, polished UI and code that actually earns its keep — 
 
 ### `> working on`
 
-| Project | What | Stack |
-| --- | --- | --- |
-| **[Fundacja Drachma](https://drachma-website.vercel.app/)** | Website + online shop with payments and deliveries for a foundation | Strapi |
-| **[Tradelog](https://github.com/Matrix669/Tradelog)** | Crypto trading journal pulling trades from the OKX API | .NET · OKX API |
-| **Mac converter app** | Shift-drag a file → radial menu to convert it. My first Swift project | Swift · SwiftUI |
+**[Tradelog](https://github.com/Matrix669/Tradelog)** — a crypto trading journal that pulls trades from the OKX API. My playground for building a real backend in .NET.
 
 ---
 
