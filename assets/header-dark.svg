@@ -1,0 +1,35 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="240" viewBox="0 0 900 240">
+  <defs>
+    <pattern id="grid" width="24" height="24" patternUnits="userSpaceOnUse">
+      <path d="M24 0H0V24" fill="none" stroke="#DFDFDF" stroke-opacity="0.06" stroke-width="1"/>
+    </pattern>
+    <linearGradient id="fade" x1="0" x2="1">
+      <stop offset="0" stop-color="#232526" stop-opacity="1"/>
+      <stop offset="0.55" stop-color="#232526" stop-opacity="0.6"/>
+      <stop offset="1" stop-color="#232526" stop-opacity="0"/>
+    </linearGradient>
+    <style>
+      .name { font: 700 44px -apple-system, "Segoe UI", Helvetica, Arial, sans-serif; fill: #DFDFDF; letter-spacing: -0.5px; }
+      .role { font: 400 19px -apple-system, "Segoe UI", Helvetica, Arial, sans-serif; fill: #DFDFDF; fill-opacity: 0.75; }
+      .mono { font: 400 14px ui-monospace, "SFMono-Regular", Menlo, Consolas, monospace; fill: #DFDFDF; fill-opacity: 0.5; }
+      .cursor { animation: blink 1.1s steps(1) infinite; }
+      @keyframes blink { 50% { opacity: 0; } }
+      .rise { animation: rise .8s ease-out both; }
+      .d1 { animation-delay: .15s; } .d2 { animation-delay: .35s; }
+      @keyframes rise { from { opacity: 0; transform: translateY(8px); } to { opacity: 1; transform: none; } }
+      @media (prefers-reduced-motion: reduce) { .rise, .cursor { animation: none; opacity: 1; } }
+    </style>
+  </defs>
+  <rect width="900" height="240" rx="16" fill="#232526"/>
+  <rect width="900" height="240" rx="16" fill="url(#grid)"/>
+  <rect width="900" height="240" rx="16" fill="url(#fade)"/>
+  <rect x="0.5" y="0.5" width="899" height="239" rx="15.5" fill="none" stroke="#DFDFDF" stroke-opacity="0.12"/>
+
+  <text x="56" y="70" class="mono rise">~/maxtkaczyk.pl</text>
+  <text x="56" y="128" class="name rise d1">Maksymilian Tkaczyk</text>
+  <text x="56" y="164" class="role rise d2">Front-end developer · React &amp; Next.js · growing into .NET</text>
+  <text x="56" y="200" class="mono rise d2">$ building things for the web<tspan class="cursor"> _</tspan></text>
+
+  <!-- decorative brackets -->
+  <text x="690" y="160" font-family="ui-monospace, Menlo, Consolas, monospace" font-size="96" fill="#DFDFDF" fill-opacity="0.08">&lt;/&gt;</text>
+</svg>

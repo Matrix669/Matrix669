@@ -1,97 +1,77 @@
-<h1 align="left">Hi, I'm Max! 👋</h1>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/header-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="./assets/header-light.svg">
+  <img alt="Maksymilian Tkaczyk — Front-end developer" src="./assets/header-dark.svg" width="100%">
+</picture>
 
-###
+<br>
 
-<p align="left">I’m a freelancer specializing in creating websites, online stores, and web applications. Below, you’ll find information about me, my skills, and the projects I’m working on</p>
+<p>
+  <a href="https://maxtkaczyk.pl"><img src="https://img.shields.io/badge/Portfolio-maxtkaczyk.pl-232526?style=for-the-badge&labelColor=DFDFDF&color=232526" alt="Portfolio"></a>
+  <a href="https://www.linkedin.com/in/maksymilian-tkaczyk"><img src="https://img.shields.io/badge/LinkedIn-232526?style=for-the-badge&logo=linkedin&logoColor=DFDFDF" alt="LinkedIn"></a>
+  <a href="mailto:mtkaczykn@gmail.com"><img src="https://img.shields.io/badge/E--mail-232526?style=for-the-badge&logo=gmail&logoColor=DFDFDF" alt="E-mail"></a>
+</p>
 
-###
+<table>
+<tr>
+<td width="140" valign="top">
+  <img src="./assets/avatar.png" width="120" alt="Max avatar">
+</td>
+<td valign="top">
 
-<h2 align="left">About Me</h2>
+### Hi, I'm Max 👋
 
-###
+Front-end developer working daily with **React** and **Next.js**. Full-time at **[Indico+](https://indicoplus.pl)** since 2025, where I've recently started taking on backend work in **.NET / C#**. After hours I build websites and online stores for clients, and I'm also a student.
 
-<p align="left">I build modern websites, online stores, and web applications, always with an individual approach and a touch of originality. My projects are my calling card, so I prioritize the highest quality – combining performance, polished design, and features that turn code into a revenue-generating tool, not just a cost.
-  
-Coding is my passion – I love exploring new technologies, learning, and solving problems. Every project is an opportunity for me to grow and create something that truly makes a difference.</p>
+I care about performance, polished UI and code that actually earns its keep — not just looks good in a repo.
 
-###
+</td>
+</tr>
+</table>
 
-<h2 align="left">Technologies</h2>
+---
 
-###
+### `> stack`
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" height="40" alt="sass logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
-  <!-- <img width="12" /> -->
- <!-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gulp/gulp-plain.svg" height="40" alt="gulp logo"  />-->
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" alt="nextjs logo"  />
-  <!-- <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  /> -->
-  <!-- <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="postgresql logo"  /> -->
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-original.svg" height="40" alt="wordpress logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
-  <img width="12" />
-  <img src="https://assets.super.so/e7c0f16c-8bd3-4c76-8075-4c86f986e1b2/uploads/favicon/9c68ae10-0a8a-4e3f-9084-3625b19df9cb.png" height="40" alt="strapi logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" height="40" alt="tailwindcss logo"  />
-</div>
+<p>
+  <img src="https://img.shields.io/badge/React-232526?style=for-the-badge&logo=react&logoColor=DFDFDF" alt="React">
+  <img src="https://img.shields.io/badge/Next.js-232526?style=for-the-badge&logo=nextdotjs&logoColor=DFDFDF" alt="Next.js">
+  <img src="https://img.shields.io/badge/TypeScript-232526?style=for-the-badge&logo=typescript&logoColor=DFDFDF" alt="TypeScript">
+  <img src="https://img.shields.io/badge/JavaScript-232526?style=for-the-badge&logo=javascript&logoColor=DFDFDF" alt="JavaScript">
+  <img src="https://img.shields.io/badge/Sass-232526?style=for-the-badge&logo=sass&logoColor=DFDFDF" alt="Sass">
+  <img src="https://img.shields.io/badge/HTML5-232526?style=for-the-badge&logo=html5&logoColor=DFDFDF" alt="HTML5">
+  <img src="https://img.shields.io/badge/CSS-232526?style=for-the-badge&logo=css&logoColor=DFDFDF" alt="CSS">
+</p>
+<p>
+  <img src="https://img.shields.io/badge/Strapi-232526?style=for-the-badge&logo=strapi&logoColor=DFDFDF" alt="Strapi">
+  <img src="https://img.shields.io/badge/Payload-232526?style=for-the-badge&logo=payloadcms&logoColor=DFDFDF" alt="Payload CMS">
+  <img src="https://img.shields.io/badge/WordPress-232526?style=for-the-badge&logo=wordpress&logoColor=DFDFDF" alt="WordPress">
+  <img src="https://img.shields.io/badge/Stripe-232526?style=for-the-badge&logo=stripe&logoColor=DFDFDF" alt="Stripe">
+  <img src="https://img.shields.io/badge/Git-232526?style=for-the-badge&logo=git&logoColor=DFDFDF" alt="Git">
+</p>
 
-###
+### `> currently learning`
 
-<h2 align="left">Skill Development Plan</h2>
+<p>
+  <img src="https://img.shields.io/badge/.NET-DFDFDF?style=for-the-badge&logo=dotnet&logoColor=232526" alt=".NET">
+  <img src="https://img.shields.io/badge/C%23-DFDFDF?style=for-the-badge" alt="C#">
+  <img src="https://img.shields.io/badge/EF_Core-DFDFDF?style=for-the-badge" alt="EF Core">
+  <img src="https://img.shields.io/badge/Expo-DFDFDF?style=for-the-badge&logo=expo&logoColor=232526" alt="Expo">
+  <img src="https://img.shields.io/badge/Swift-DFDFDF?style=for-the-badge&logo=swift&logoColor=232526" alt="Swift">
+</p>
 
-###
+---
 
-<h6 align="left">In progress:</h6>
+### `> working on`
 
-###
+| Project | What | Stack |
+| --- | --- | --- |
+| **[Fundacja Drachma](https://drachma-website.vercel.app/)** | Website + online shop with payments and deliveries for a foundation | Strapi |
+| **[Tradelog](https://github.com/Matrix669/Tradelog)** | Crypto trading journal pulling trades from the OKX API | .NET · OKX API |
+| **Mac converter app** | Shift-drag a file → radial menu to convert it. My first Swift project | Swift · SwiftUI |
 
-<div align="left">
-  ---
-</div>
+---
 
-###
-
-<h6 align="left">To learn:</h6>
-
-###
-
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/reactnative/reactnative-original-wordmark.svg" height="40" alt="react native logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/expo/expo-original.svg" height="40" alt="expo logo"/>
-  <img src="https://payloadcms.com/apple-icon.png?ecf0fe126546bd55" height="40" alt="payload cms logo"  
-</div>
-
-###
-
-<h2 align="left">Currently working on:</h2>
-
-###
-
-- <p align="left">Website + shop for Fundacja Drachma <a target="_blank" href="https://drachma-website.vercel.app/">Fundacja Drachma</a></p>
-
-###
-
-<h2 align="left">Contact</h2>
-
-###
-
-<p align="left">📧 E-mail: mtkaczykn@gmail.com</p>
-
-###
+<p align="center">
+  <sub>More work, case studies and contact → <a href="https://maxtkaczyk.pl"><b>maxtkaczyk.pl</b></a></sub>
+</p>
