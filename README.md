@@ -1,10 +1,10 @@
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="./assets/header-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="./assets/header-light.svg">
-  <img alt="Maksymilian Tkaczyk — Front-end developer" src="./assets/header-dark.svg" width="100%">
-</picture>
-
-<br>
+<p>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/header-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="./assets/header-light.svg">
+    <img alt="Maksymilian Tkaczyk — Front-end developer" src="./assets/header-dark.svg" width="100%">
+  </picture>
+</p>
 
 <p>
   <a href="https://maxtkaczyk.pl"><img src="https://img.shields.io/badge/Portfolio-maxtkaczyk.pl-232526?style=for-the-badge&labelColor=DFDFDF&color=232526" alt="Portfolio"></a>
