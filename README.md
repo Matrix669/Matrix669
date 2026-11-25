@@ -24,6 +24,8 @@
 Front-end developer working daily with **React** and **Next.js**. Full-time at **[Indico+](https://indicoplus.pl)** since 2025, where I've recently started taking on backend work in **.NET / C#**. After hours I build websites and online stores for clients, and I'm also a student.
 
 I care about performance, polished UI and code that actually earns its keep — not just looks good in a repo.
+<br>
+<br>
 
 </td>
 </tr>
